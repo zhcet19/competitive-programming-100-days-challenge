@@ -1,7 +1,7 @@
 #include<iostream>
 int main()
 {
-    int num ;
+     int num ;
     std::cout<<"enter the no to convert from decimal to binary:";
     std::cin>>num;
     int a[10];
