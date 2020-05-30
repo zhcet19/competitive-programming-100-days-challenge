@@ -13,7 +13,7 @@ int main()
         prime[i]=1;
         prime[0]=0;
         prime[1]=0;
-}
+  }
 for(int i=2;i<sqrt(n);i++)
 {
     if(prime[i]==1)
